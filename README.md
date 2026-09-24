@@ -45,7 +45,7 @@ Raw Data → Data Understanding → Cleaning → Feature Preparation → Model T
 
 | Category | Tools |
 |---|---|
-| Environment | Google Colab |
+| Environment | Jupyter Notebook |
 | Language | Python |
 | Data handling | Pandas, NumPy |
 | Visualization | Matplotlib, Seaborn |
