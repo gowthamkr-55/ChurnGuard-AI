@@ -117,7 +117,7 @@ Make sure `churn_guard_final_model.pkl` is in the same folder as `app.py` before
 
 | Interface | High Risk Prediction | Low Risk Prediction |
 |---|---|---|
-| ![Interface](images/interface.png) | ![High Risk](images/High_risk.png) | ![Low Risk](images/Low_risk.png) |
+| ![Interface](images/interface.PNG) | ![High Risk](images/High_risk.PNG) | ![Low Risk](images/Low_risk.PNG) |
 
 ---
 
